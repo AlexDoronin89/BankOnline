@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74c2bcb9-3f84-4883-8136-b5197db3affd": {
+      "ProjectGuid": "74c2bcb9-3f84-4883-8136-b5197db3affd",
+      "DisplayName": "BankEntityClassLibrary",
+      "ColorIndex": 0
+    },
+    "d51d76bf-beca-4032-8418-9a74f50475b5": {
+      "ProjectGuid": "d51d76bf-beca-4032-8418-9a74f50475b5",
+      "DisplayName": "CommunicationEntityClassLibrary",
+      "ColorIndex": 1
+    },
+    "2628a7b8-d30f-4150-a195-33ddc89b1dbb": {
+      "ProjectGuid": "2628a7b8-d30f-4150-a195-33ddc89b1dbb",
+      "DisplayName": "DbConnectionLibrary",
+      "ColorIndex": 2
+    },
+    "eeba466d-443b-4d06-9cdb-d470316f1fee": {
+      "ProjectGuid": "eeba466d-443b-4d06-9cdb-d470316f1fee",
+      "DisplayName": "ServerLibrary",
+      "ColorIndex": 3
+    },
+    "441f0ef7-1d3e-4d22-8b99-5e4c1c5ccd77": {
+      "ProjectGuid": "441f0ef7-1d3e-4d22-8b99-5e4c1c5ccd77",
+      "DisplayName": "ClientLibrary",
+      "ColorIndex": 4
+    },
+    "bf6a1ae0-5194-4d07-896c-ff79296d1861": {
+      "ProjectGuid": "bf6a1ae0-5194-4d07-896c-ff79296d1861",
+      "DisplayName": "Server",
+      "ColorIndex": 5
+    },
+    "9cd83835-d24c-4dfb-9d50-25faa2c67b8e": {
+      "ProjectGuid": "9cd83835-d24c-4dfb-9d50-25faa2c67b8e",
+      "DisplayName": "Client",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

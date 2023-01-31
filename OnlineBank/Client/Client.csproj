@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.22" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClientLibrary\ClientLibrary.csproj" />
+    <ProjectReference Include="..\CommunicationEntityClassLibrary\CommunicationEntityClassLibrary.csproj" />
+    <ProjectReference Include="..\EntityClassLibrary\BankEntityClassLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
